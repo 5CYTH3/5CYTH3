@@ -1,5 +1,5 @@
 # 🎐 Hello guys, I'm @5CYTH3
-🔬 During quarantine, i learned new technologies and i'm currently learning Svelte.js :)  
+🔬 I love learning new technologies. I'm actually improving my flutter and Svelte.js experience.
 ⌨️ You can contact me by Instagram or Discord !  
 📡 Scythe#0356 // @scythe_crea  
 
@@ -50,5 +50,15 @@
 </td></tr></table>  
 
 <br/>  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/scythe_crea" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-</table></tr>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
