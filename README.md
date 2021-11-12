@@ -5,7 +5,7 @@
 
 <details>
   <summary>My Github stats 🚀</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5CYTH3&layout=compact&bg_color=#0d1117)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=5CYTH3&theme=ayu-mirage&show_icons=true)
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=5cyth3&show_icons=true&count_private=true&hide_border=true" align="center" />
   </div>  
