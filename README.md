@@ -1,7 +1,7 @@
 # 🎐 Hello guys, I'm @5CYTH3
-🔬 I love learning new technologies. I'm actually improving my flutter and Svelte.js experience.
-⌨️ You can contact me by Instagram or Discord !  
-📡 Scythe#0356 // @scythe_crea  
+🔬 I love learning new technologies. I'm actually improving my flutter and Svelte.js experience.<br>
+⌨️ You can contact me by Instagram or Discord !<br>
+📡 Scythe#0356 // @scythe_crea
 
 <details>
   <summary>My Github stats 🚀</summary>
