@@ -6,7 +6,7 @@
 <details>
   <summary>My Github stats 🚀</summary>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=5CYTH3&theme=ayu-mirage&show_icons=true)
-  <div align="right">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=5cyth3&show_icons=true&count_private=true&hide_border=true" align="center" />
   </div>  
 </details>
