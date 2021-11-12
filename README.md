@@ -8,7 +8,7 @@
     [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=5CYTH3&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
     ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=5CYTH3&theme=ayu-mirage&show_icons=true)
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=5cyth3&show_icons=true&count_private=true&hide_border=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=5cyth3&theme=ayu-mirage&show_icons=true&count_private=true&hide_border=true" align="center" />
   </div>  
 </details>
 
