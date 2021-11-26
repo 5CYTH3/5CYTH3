@@ -5,7 +5,7 @@
 
 <details>
   <summary>My Github stats 🚀</summary>
-  <div align="center">
+  <div>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5CYTH3&layout=compact&theme=ayu-mirage">
     <img src="https://github-readme-stats.vercel.app/api?username=5cyth3&theme=ayu-mirage&show_icons=true&count_private=true&hide_border=true" align="center" />
