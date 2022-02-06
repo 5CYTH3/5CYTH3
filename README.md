@@ -1,5 +1,5 @@
 # 🎐 Hello guys, I'm @5CYTH3
-🔬 I love learning new technologies. I'm actually improving my C++ and Svelte.js experience.<br>
+🔬 Fullstack (svelte & ts / NestJS & Go) developer. Mathematics and theoretical computer-science enjoyer.<br>
 ⌨️ You can contact me by Instagram or Discord !<br>
 📡 Scythe#0356 // @scythe_crea
 
