@@ -4,3 +4,5 @@
 📡 Scythe#0356 // @scythe_crea
 
 "Rust seems more interesting than C++. Oops, my bad."
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5CYTH3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
