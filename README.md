@@ -1,6 +1,9 @@
-# 🎐 Hello guys, I'm @5CYTH3
-🔬 Fullstack Webdev (SvelteKit (ts), Next.js, Nest, go-gin). Mathematics and theoretical computer-science enjoyer.<br>
-⌨️ You can contact me by Instagram or Discord !<br>
-📡 Scythe#0356 // @scythe_crea
+#🧋  Hello guys, I'm @5CYTH3
+Web Front-End with SvelteKit, Next.js and AstroJS <br>
+Web Back-end with go-gin, (Rocket.rs) <br>
 
-"Rust seems more interesting than C++. Oops, my bad."
+Mathematics and Theoretical Computer Science enthusiast! (actually working on [a programming language](https://github.com/5CYTH3/karm_parser))
+Haskell, OCaml, Rust ❤️
+
+
+discord: @scythed_
